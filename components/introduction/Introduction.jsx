@@ -64,7 +64,7 @@ const Introduction = () => {
       >
         <Image
           className={`shadow-2xl shadow-gray-200 w-full h-full absolute bottom-0 object-cover bg-white rounded-3xl`}
-          src="/images/person.png" // ক্লায়েন্টের ছবি ব্যবহার করুন
+          src="/images/Dinesh-Fernando-photo.jpg" // ক্লায়েন্টের ছবি ব্যবহার করুন
           alt="Dinesh S. Fernando - Industrial Engineering & Project Management Professional"
           width={536}
           height={636}

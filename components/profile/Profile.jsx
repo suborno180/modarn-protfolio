@@ -14,7 +14,7 @@ const Profile = () => {
           <div className="max-w-106 h-117 object-fill overflow-hidden rounded-xl">
             <Image
               className="bg-soft-white h-[120%] object-cover"
-              src="/images/person.png" // ক্লায়েন্টের প্রোফেশনাল ছবি
+              src="/images/Dinesh-Fernando-photo.jpg" // ক্লায়েন্টের প্রোফেশনাল ছবি
               alt="Dinesh S. Fernando - Industrial Engineering & Project Management Professional"
               width={424}
               height={468}
