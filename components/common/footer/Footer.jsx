@@ -169,7 +169,19 @@ const Footer = () => {
           {/* Developer Credit */}
           <div className="text-center mt-6 pt-6 border-t border-gray-800">
             <p className="text-gray-500 text-xs">
-              Crafted with precision and expertise • Specializing in operational excellence since 2009
+              Designed and developed by{" "}
+              <a 
+                href="https://suborno.dev" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-gray-400 hover:text-primary transition-colors duration-300 font-medium"
+              >
+                Maruf Suborno
+              </a>
+              {" "}• Crafted with precision and expertise • Specializing in operational excellence since 2009
+            </p>
+            <p className="text-gray-600 text-xs mt-1">
+              &copy; {copyrightYear} All rights reserved
             </p>
           </div>
         </div>
